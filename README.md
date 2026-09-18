@@ -49,4 +49,4 @@ To allow users to easily drill down into specific data points, the dashboard inc
 
 
 ### 6.	Screenshots
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/chandankumar090/Blinkit-Dashboard/blob/main/BlinkiT%20snapshot.png)
