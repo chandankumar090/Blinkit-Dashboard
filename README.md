@@ -46,3 +46,7 @@ To allow users to easily drill down into specific data points, the dashboard inc
 1. **Tier 3 Dominance:** Deep regional penetration in Tier 3 locations leads total revenue distribution, outpacing major Tier 1 hubs.
 2. **Core Categories:** Perishables (Fruits & Veggies) and Snack Foods form the foundational anchors of gross sales value, making them critical inventory optimization priorities.
 3. **Format Efficiency:** Supermarket Type 1 formats drastically outperform smaller grocery setups, bringing in over **\$787K** of the gross \$1.20M value.
+
+
+### 6.	Screenshots
+![Dashboard Preview]()
